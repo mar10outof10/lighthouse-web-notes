@@ -1,1 +1,4 @@
 # Martin's Notes
+
+## Summary
+This repository contains all of the notes taken by [Martin](https://github.com/mar10outof10) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
